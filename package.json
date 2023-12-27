@@ -1,0 +1,14 @@
+{
+  "name": "enter-2-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Ankita Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
